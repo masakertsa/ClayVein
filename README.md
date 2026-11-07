@@ -32,7 +32,7 @@ Layout geometry scales dynamically based on local environmental variables:
 1. **Depth Parameter ($D$):** Calibrated to the lowest vector of discovered soil contamination.
 2. **Spacing Parameter ($S$):** Determined by the active radius and flocculation capacity of the chosen mineral core.
 
-Standard Deployment Scenarios
+## 📋 3. Standard Deployment Scenarios
 
 The framework includes pre-configured parameters for the three most common environmental contamination profiles. 
 
@@ -44,7 +44,7 @@ See the full [use-cases.md](use-cases.md) guide for detailed field instructions:
 These scenarios can be simulated directly using the `calculate_use_case_requirements()` function within `calculations.py`.
 
 
-## 🔬 3. Scientific Grounding & Mechanics
+## 🔬 4. Scientific Grounding & Mechanics
 
 - **Geochemical Ion-Exchange:** Zeolite matrices utilize a crystalline aluminosilicate framework to capture heavy metal cations ($Pb^{2+}$, $Cd^{2+}$) via ion-exchange [modified zeolite application](https://maxapress.com) and [zeolite for toxic metal uptake](https://mdpi.com), while mineral cores trigger localized flocculation to open dense clay structures [effect of biochar, zeolite and bentonite](https://sciencedirect.com).
 - **Cyanobacterial Biosorption:** Extracellular polymeric substances of *Nostoc* strains bind upward-migrating heavy metals with a verified removal efficiency of up to 91–98% through passive biosorption and active intracellular bioaccumulation [bioaccumulation and biosorption study](https://researchgate.net).
