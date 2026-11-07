@@ -32,6 +32,18 @@ Layout geometry scales dynamically based on local environmental variables:
 1. **Depth Parameter ($D$):** Calibrated to the lowest vector of discovered soil contamination.
 2. **Spacing Parameter ($S$):** Determined by the active radius and flocculation capacity of the chosen mineral core.
 
+Standard Deployment Scenarios
+
+The framework includes pre-configured parameters for the three most common environmental contamination profiles. 
+
+See the full [use-cases.md](use-cases.md) guide for detailed field instructions:
+*   **Scenario A: Heavy Metal Lockdown ($Pb^{2+}$, $Cd^{2+}$, $Cu^{2+}$)** – 70:30 Zeolite/Bentonite mix tailored for industrial or urban runoff.
+*   **Scenario B: Hydrocarbon Sponge (Fuel Oil, Diesel)** – 30:70 Zeolite/Bentonite dense grid optimized for hydrophobic organic compounds.
+*   **Scenario C: Fertilizer & Nutrient Recovery ($NH_4^+$, Phosphate)** – 80:20 Zeolite/Bentonite wide grid designed to turn agricultural runoff into recyclable biomass.
+
+These scenarios can be simulated directly using the `calculate_use_case_requirements()` function within `calculations.py`.
+
+
 ## 🔬 3. Scientific Grounding & Mechanics
 
 - **Geochemical Ion-Exchange:** Zeolite matrices utilize a crystalline aluminosilicate framework to capture heavy metal cations ($Pb^{2+}$, $Cd^{2+}$) via ion-exchange [modified zeolite application](https://maxapress.com) and [zeolite for toxic metal uptake](https://mdpi.com), while mineral cores trigger localized flocculation to open dense clay structures [effect of biochar, zeolite and bentonite](https://sciencedirect.com).
