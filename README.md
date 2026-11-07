@@ -1,28 +1,42 @@
-# 🔬 ClayVein: Comprehensive Research & System Dynamics
+# 🍃 ClayVein: Passive Mineral-Cyanobacteria Soil Remediation Framework
 
-This document expands on the environmental, thermodynamic, and biochemical framework of the ClayVein remediation system.
+A 100% passive biopunk architecture designed to remediate heavy-metal and chemically contaminated clay soils using capillary pressure, ion exchange, and biological symbiosis.
 
-## 🌀 1. The Clay Dilemma & Capillary Pumping
-High-density clay environments (such as kaolinite or illite matrices) lock contaminants in place due to their extremely low hydraulic conductivity and negative surface charge. Traditional methods require heavy machinery and energy-intensive soil washing.
+## 🛠 1. Thermodynamic & Biological Architecture
 
-ClayVein bypasses this by introducing a localized high-conductivity vector (the mineral shaft). This creates a structural anomaly in the clay field:
-- **Hydrostatic Pressure Shift:** The granular nature of crushed Zeolite or Bentonite provides a high-porosity channel.
-- **Solar-Driven Evaporative Pull:** As the sun heats the top surface, water vapor transpires through the cyanobacteria layer. This loss of surface moisture creates a permanent upward hydraulic gradient, drawing sub-surface pore-water toward the shaft without mechanical pumps.
+- **Targeted Macro-Punctures:** Vertical shafts drilled into the soil substrate, scaled to the depth of the toxin plume.
+- **Crushed Mineral Core:** Shafts filled with high-surface-area minerals (e.g., Zeolite, Bentonite) that draw contaminated pore-water via capillary action.
+- **Photosynthetic Cyanobacteria Cap:** A living *Nostoc* matrix on the surface that utilizes photosynthesis for bioaccumulation and neutralizes chemical vapors.
 
-## 🧲 2. Geochemical Stabilization (Ion Exchange Matrix)
-The core of the system utilizes a high Cation Exchange Capacity (CEC) to chemically immobilize heavy metals:
+```text
+       [Sunlight / Atmosphere]
+                  |
+     +------------v------------+
 
-$$\text{Mineral}\text{-}\text{Ca}^{2+} + \text{Me}^{2+} \rightleftharpoons \text{Mineral}\text{-}\text{Me}^{2+} + \text{Ca}^{2+}$$
+     |   Cyanobacteria Cap     |  <-- Bioaccumulation & Harvesting Zone
+     +------------+------------+
+                  |
+     +------------v------------+
 
-*(Where $\text{Me}^{2+}$ represents toxic heavy metal cations like $Pb^{2+}$, $Cd^{2+}$, or $Cu^{2+}$).*
+     |  Crushed Mineral Core   |  <-- Passively draws and binds toxic
+     |   (Zeolite / Bentonite) |      pore-water from surrounding clay
+     +-------------------------+
+                  |
+                  v
+       [Remediated Soil Base]
+```
 
-Zeolite acts as a molecular sieve, trapping large ionic radii contaminants within its crystalline cavities while releasing harmless structural ions back into the soil matrix.
+## 📐 2. Engineering Framework & Variable Scaling
 
-## 🧬 3. Biopunk Symbiosis & Biomass Harvesting
-The photosynthetic cyanobacteria blanket (*Nostoc* strains) serves a dual purpose:
+Layout geometry scales dynamically based on local environmental variables:
+1. **Depth Parameter ($D$):** Calibrated to the lowest vector of discovered soil contamination.
+2. **Spacing Parameter ($S$):** Determined by the active radius and flocculation capacity of the chosen mineral core.
 
-1. **Chemical Capture:** The extracellular polymeric substances (EPS) function as a sticky chemical net, binding heavy metals via passive biosorption.
-2. **Metabolic Locking:** Once bound, the living bacteria actively translocate the toxins into intracellular compartments via heavy metal ATPases, isolating them from the surrounding ecosphere.
+## 🔬 3. Scientific Grounding & Mechanics
 
-### The Lifecycle Loop
-Unlike traditional chemical treatments that permanently alter soil ecology, the ClayVein system is designed to be harvested. After a specific saturation window (determined by the simulation script), the top cyanobacteria layer—now dense with captured heavy metals—is mechanically skimmed or rolled up like a mat. This biomass can then be safely incinerated or processed for metal recovery, leaving behind a remediated, functional clay substrate.
+- **Geochemical Ion-Exchange:** Zeolite matrices utilize a crystalline aluminosilicate framework to capture heavy metal cations ($Pb^{2+}$, $Cd^{2+}$) via ion-exchange [modified zeolite application](https://maxapress.com) and [zeolite for toxic metal uptake](https://mdpi.com), while mineral cores trigger localized flocculation to open dense clay structures [effect of biochar, zeolite and bentonite](https://sciencedirect.com).
+- **Cyanobacterial Biosorption:** Extracellular polymeric substances of *Nostoc* strains bind upward-migrating heavy metals with a verified removal efficiency of up to 91–98% through passive biosorption and active intracellular bioaccumulation [bioaccumulation and biosorption study](https://researchgate.net).
+
+## 📄 License
+
+This project is licensed under the **MIT License** – Copyright (c) 2026 masakertsa.
