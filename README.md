@@ -4,7 +4,7 @@ A 100% passive biopunk architecture designed to remediate heavy-metal and chemic
 
 ## 🛠 1. Thermodynamic & Biological Architecture
 
-- **Targeted Macro-Punctures:** Vertical shafts drilled into the soil substrate, scaled to the depth of the toxin plume.
+- **Targeted Macro-Punctures:** Vertical shafts drilled into the soil substrate using a standard Ø 100 mm (10 cm) auger, scaled dynamically to the depth of the toxin plume.
 - **Crushed Mineral Core:** Shafts filled with high-surface-area minerals (e.g., Zeolite, Bentonite) that draw contaminated pore-water via capillary action.
 - **Photosynthetic Cyanobacteria Cap:** A living *Nostoc* matrix on the surface that utilizes photosynthesis for bioaccumulation and neutralizes chemical vapors.
 
